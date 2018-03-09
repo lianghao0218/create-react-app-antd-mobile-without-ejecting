@@ -1,4 +1,4 @@
-## 在create-react-app项目中使用antd并配置按需加载
+﻿## 在create-react-app项目中使用antd-mobile并配置按需加载
 
 ```
 $ npm install
